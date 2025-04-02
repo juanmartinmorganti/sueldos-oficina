@@ -5,6 +5,9 @@
 ---
 
 ## EMPLEADORES Y NOVEDADES  
+- Feriados marzo
+  - 3,4 carnaval
+  - 24 Memoria, Verdad y Justicia.
 
 ### RODRIGO DE BARRENECHEA  
 - **YANINA SALVATIERRA BENITEZ**  
