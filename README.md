@@ -10,6 +10,7 @@
   - 24 Memoria, Verdad y Justicia.
   - Empledos de comercio
     - actualización basico y no remunerativo
+  - Cuota fija ART abril  $1.227
 
 
 ### RODRIGO DE BARRENECHEA  
@@ -67,3 +68,11 @@
 - Los montos se expresan en pesos argentinos ($).  
 - "Tiempo parcial" indica modalidad de contratación.  
 - Fechas en formato DD/MM/AAAA.  
+
+
+### Acciones del día
+
+- Libro de sueldo digital
+  - Debarrenechea
+  - Orainde
+  - Todo Na
