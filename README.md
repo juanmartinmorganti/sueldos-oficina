@@ -70,9 +70,19 @@
 - Fechas en formato DD/MM/AAAA.  
 
 
-### Acciones del día
+# Acciones del día
 
+## 07/04/2025
 - Libro de sueldo digital
   - Debarrenechea
   - Orainde
   - Todo Na
+
+## 08/04/2025
+- Libro de sueldos digital
+  - Tettamanti
+  - Ramirez
+  - Fenix
+  - Sanchez
+
+  
