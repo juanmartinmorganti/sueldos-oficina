@@ -1,4 +1,4 @@
-# marzo
+# ABRIL
 # NOVEDADES MES ABRIL 2025  
 **VILLA ELISA, 29 DE ABRIL 2025**  
 
@@ -73,6 +73,9 @@
 ## 29/04/2025
 - Boletas sindicales marzo
 - Novedades de convenios
+  - COMERCIO
+  - SANIDAD
+  
 
 
 
