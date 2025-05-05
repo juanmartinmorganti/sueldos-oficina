@@ -13,11 +13,11 @@
 
 ### RODRIGO DE BARRENECHEA  
 - **(10)YANINA SALVATIERRA BENITEZ**  
-  - (0108)Adelanto marzo: $113.289  
-  - (0003)4 horas extras: $36.224  
+  - (0108)Adelanto marzo: $95.971,00  
 - **(5)PAULA GARCIA**  
-  - (0108)Adelanto marzo: $22.116  
-  - (0003)4 horas extras: $36.224  
+  - (0108)Adelanto marzo: $24.335,00
+  - Inasistencia 2 días
+  - Descontar presentismo 
 
 ### TETTAMANTI ANA  
 - **ANTONELLA CIOCCO**  
