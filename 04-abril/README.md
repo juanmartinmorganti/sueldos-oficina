@@ -59,6 +59,8 @@
 ### SANCHEZ CLAUDIA  
 - **CYNTHIA M. LAPEYRE**  
   *(Sin novedades registradas)*  
+  - Basico marzo: 985.189,49
+  - (0022)NO REM. ½ JORNADA: 16.993,50
 
 ---
 
