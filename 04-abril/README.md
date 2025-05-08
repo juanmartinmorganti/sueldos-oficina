@@ -22,8 +22,9 @@
 ### TETTAMANTI ANA  
 - **ANTONELLA CIOCCO**  
   *(Sin novedades registradas)*
-  - Basico marzo: 969.674,70
-  - (0022)NO REM. ½ JORNADA: 16.993,50   
+  - Basico enero 2025: 935.687,71
+  - Basico marzo: 985.189,49
+  - (0022)NO REM. ½ JORNADA: 24.750,89   
 
 ### FENIX  
 - **(1)CACHO - ADM E**  
