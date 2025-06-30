@@ -45,6 +45,33 @@
         { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
         { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
       ]
+    },
+    {
+      "id": 3,
+      "nombre": "FENIX",
+      "empleados": [
+        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
+        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
+        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "FENIX",
+      "empleados": [
+        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
+        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
+        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "FENIX",
+      "empleados": [
+        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
+        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
+        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+      ]
     }
   ]
 }
