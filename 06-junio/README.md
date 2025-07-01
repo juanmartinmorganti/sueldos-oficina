@@ -1,30 +1,30 @@
-# ABRIL
-# NOVEDADES MES ABRIL 2025  
-**VILLA ELISA, 29 DE ABRIL 2025**  
+# JUNIO
+# NOVEDADES MES JUNIO 2025  
+**VILLA ELISA, 30 DE JUNIO 2025**  
 
 ---
 
 ## EMPLEADORES Y NOVEDADES  
-- Feriados marzo
-  - 2 Malvinas
-  - 18 viernes santo
-  - Cuota fija ART abril  $1.303,00
+- Feriados junio
+  - 16 Guemes
+  - 20 Belgrano
+  
 
 
 ### RODRIGO DE BARRENECHEA  
 - **(10)YANINA SALVATIERRA BENITEZ**  
-  - (0108)Adelanto marzo: $95.971,00  
+  - (0108)Adelanto junio: $125.149 + $60.000 4hs extras. Total $185.149-
+  - Liquidar 4hs extras  
 - **(5)PAULA GARCIA**  
-  - (0108)Adelanto marzo: $24.335,00
-  - Inasistencia 2 días
-  - Descontar presentismo 
+  - (0108)Adelanto junio: $39.108-
+ 
 
 ### TETTAMANTI ANA  
 - **ANTONELLA CIOCCO**  
-  *(Sin novedades registradas)*
-  - Basico enero 2025: 935.687,71
-  - Basico marzo: 985.189,49
-  - (0022)NO REM. ½ JORNADA: 24.750,89   
+  *Nueva Escala*
+  - No Rem Junio 2025. $40.000-
+  - Basico junio: 1.014.966,85
+  
 
 ### FENIX  
 - **(1)CACHO - ADM E**  
