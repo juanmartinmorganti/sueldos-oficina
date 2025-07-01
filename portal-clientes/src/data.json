@@ -1,0 +1,77 @@
+
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "RODRIGO DE BARRENECHEA",
+      "empleados": [
+        {
+          "id": 10,
+          "nombre": "YANINA SALVATIERRA BENITEZ",
+          "liquidaciones": [
+            { "id": 1, "mes": "Marzo 2025", "adelanto": 113289, "extras": 36224 },
+            { "id": 2, "mes": "Abril 2025", "adelanto": 95971, "extras": 0 }
+          ]
+        },
+        {
+          "id": 5,
+          "nombre": "PAULA GARCIA",
+          "liquidaciones": [
+            { "id": 3, "mes": "Marzo 2025", "adelanto": 22116, "extras": 36224 },
+            { "id": 4, "mes": "Abril 2025", "adelanto": 24335, "extras": 0, "inasistencias": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "TETTAMANTI ANA",
+      "empleados": [
+        {
+          "id": 1,
+          "nombre": "ANTONELLA CIOCCO",
+          "liquidaciones": [
+            { "id": 5, "mes": "Marzo 2025", "basico": 969674.70, "no_remunerativo": 16993.50 },
+            { "id": 6, "mes": "Abril 2025", "basico": 985189.49, "no_remunerativo": 24750.89 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "FENIX",
+      "empleados": [
+        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
+        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
+        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "FENIX",
+      "empleados": [
+        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
+        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
+        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "FENIX",
+      "empleados": [
+        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
+        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
+        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "FENIX",
+      "empleados": [
+        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
+        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
+        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+      ]
+    }
+  ]
+}
