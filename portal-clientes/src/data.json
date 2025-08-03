@@ -1,24 +1,44 @@
-
 {
   "clientes": [
     {
       "id": 1,
-      "nombre": "RODRIGO DE BARRENECHEA",
+      "nombre": "DE BARRENECHEA",
       "empleados": [
         {
           "id": 10,
           "nombre": "YANINA SALVATIERRA BENITEZ",
           "liquidaciones": [
-            { "id": 1, "mes": "Marzo 2025", "adelanto": 113289, "extras": 36224 },
-            { "id": 2, "mes": "Abril 2025", "adelanto": 95971, "extras": 0 }
+            {
+              "id": 1,
+              "mes": "Marzo 2025",
+              "adelanto": 113289,
+              "extras": 36224
+            },
+            {
+              "id": 2,
+              "mes": "Abril 2025",
+              "adelanto": 95971,
+              "extras": 0
+            }
           ]
         },
         {
           "id": 5,
           "nombre": "PAULA GARCIA",
           "liquidaciones": [
-            { "id": 3, "mes": "Marzo 2025", "adelanto": 22116, "extras": 36224 },
-            { "id": 4, "mes": "Abril 2025", "adelanto": 24335, "extras": 0, "inasistencias": 2 }
+            {
+              "id": 3,
+              "mes": "Marzo 2025",
+              "adelanto": 22116,
+              "extras": 36224
+            },
+            {
+              "id": 4,
+              "mes": "Abril 2025",
+              "adelanto": 24335,
+              "extras": 0,
+              "inasistencias": 2
+            }
           ]
         }
       ]
@@ -31,46 +51,116 @@
           "id": 1,
           "nombre": "ANTONELLA CIOCCO",
           "liquidaciones": [
-            { "id": 5, "mes": "Marzo 2025", "basico": 969674.70, "no_remunerativo": 16993.50 },
-            { "id": 6, "mes": "Abril 2025", "basico": 985189.49, "no_remunerativo": 24750.89 }
+            {
+              "id": 5,
+              "mes": "Marzo 2025",
+              "basico": 969674.7,
+              "no_remunerativo": 16993.5
+            },
+            {
+              "id": 6,
+              "mes": "Abril 2025",
+              "basico": 985189.49,
+              "no_remunerativo": 24750.89
+            }
           ]
         }
       ]
     },
     {
+      "nombre": "RAMIREZ",
       "id": 3,
-      "nombre": "FENIX",
       "empleados": [
-        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
-        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
-        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+        {
+          "nombre": "IBAÑEZ GRACIELA",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 1
+        }
       ]
     },
     {
-      "id": 3,
       "nombre": "FENIX",
+      "id": 4,
       "empleados": [
-        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
-        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
-        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+        {
+          "nombre": "SMITH JULIO CESAR",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 1
+        }
       ]
     },
     {
-      "id": 3,
-      "nombre": "FENIX",
+      "nombre": "TODO NATURAL",
+      "id": 5,
       "empleados": [
-        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
-        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
-        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+        {
+          "nombre": "FIGUEROA MARIA",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 1
+        },
+        {
+          "nombre": "ROJA YANINA",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 2
+        },
+        {
+          "nombre": "LEMIÑA FRANCISCO",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 3
+        },
+        {
+          "nombre": "GANDUGLIA LUCIA",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 4
+        },
+        {
+          "nombre": "ZURDO IARA",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 5
+        },
+        {
+          "nombre": "ORAINDE DIEGO",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 6
+        }
       ]
     },
     {
-      "id": 3,
-      "nombre": "FENIX",
+      "nombre": "SANCHEZ",
+      "id": 6,
       "empleados": [
-        { "id": 1, "nombre": "CACHO - ADM E", "liquidaciones": [] },
-        { "id": 2, "nombre": "ALVARO - ADM A", "liquidaciones": [] },
-        { "id": 7, "nombre": "MATIAS - ADM B", "liquidaciones": [] }
+        {
+          "nombre": "LAPEYRE CYNTHIA",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 1
+        }
+      ]
+    },
+    {
+      "nombre": "ORAINDE",
+      "id": 7,
+      "empleados": [
+        {
+          "nombre": "FIGUEROA MARIA",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 1
+        },
+        {
+          "nombre": "GALAÑENA ALDANA",
+          "cuil": "",
+          "liquidaciones": [],
+          "id": 2
+        }
       ]
     }
   ]
