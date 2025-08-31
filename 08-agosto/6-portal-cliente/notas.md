@@ -25,8 +25,8 @@
 
 &nbsp;	✅ADELANTOS
 
-*Salvatierra* $152.123,00
-*Garcia* $31.000,00
+- *Salvatierra* $152.123,00
+- *Garcia* $31.000,00
 
 **TETTAMANTI**
 
