@@ -1,8 +1,15 @@
 # 📌NOVEDADES DE AGOSTO 2025
 
+## Boletas sindicales julio
+- Debarrenechea
+- Todo Na
+- Orainde
+- Fenix
+- Ramirez
 
 
-💥FERIADO (1) 9 DE JULIO - DIA DE LA INDEPENDENCIA.
+
+💥FERIADO (1)  - 17 de agosto.
 
 
 
@@ -14,13 +21,13 @@
 
 
 
-📍DEBARRENECHEA	
+📍*DEBARRENECHEA*	
 
 &nbsp;	✅ADELANTOS
 
 
 
-📍TODO NA 
+📍*TODO NA*
 
 &nbsp;	✅NUEVO EMPLEADO
 
