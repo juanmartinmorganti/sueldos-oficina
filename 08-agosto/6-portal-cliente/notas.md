@@ -25,12 +25,23 @@
 
 &nbsp;	✅ADELANTOS
 
+*Salvatierra* $152.123,00
+*Garcia* $31.000,00
+
+**TETTAMANTI**
 
 
+**RAMIREZ HUGO**
+
+**FENIX**
 
 **TODO NA**
 
 &nbsp;	✅NUEVO EMPLEADO
+
+**SANCHEZ**
+
+**ORAINDE**
 
 
 
