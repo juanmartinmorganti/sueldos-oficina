@@ -30,18 +30,36 @@
 
 **TETTAMANTI**
 
+- *Ciocco, María Antonella*
 
 **RAMIREZ HUGO**
 
+- *Ibañez, Graciela Edith*
+
 **FENIX**
 
+- *Smith, Julio Cesar*
+
 **TODO NA**
+
+- *Fernandez Figueroa, María Florencia*
+- *Roja Pizzola, Yanina Soledad*
+- *Lemiña, Francisco*
+- *Ganduglia, Aien Lucia*
+- *Orainde, Diego*
+- *Zurdo, Iara Nahir*
 
 &nbsp;	✅NUEVO EMPLEADO
 
 **SANCHEZ**
 
+- *Lapeyre, Cynthia Micaela*
+
 **ORAINDE**
+
+- *Fernandez Figueroa, María Florencia*
+- *Galañena, Aldana Martina*
+
 
 
 
