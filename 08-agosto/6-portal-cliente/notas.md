@@ -21,13 +21,14 @@
 ---
 
 
-📍*DEBARRENECHEA*	
+**DEBARRENECHEA**	
 
 &nbsp;	✅ADELANTOS
 
 
 
-📍*TODO NA*
+
+**TODO NA**
 
 &nbsp;	✅NUEVO EMPLEADO
 
