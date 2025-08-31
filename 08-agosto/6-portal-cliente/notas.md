@@ -17,6 +17,7 @@
 
 💥CONVENIO SANIDAD
 
+💥CONTROLAR CUOTA VARIABLE ART
 
 ---
 
@@ -44,10 +45,12 @@
 
 - *Fernandez Figueroa, María Florencia*
 - *Roja Pizzola, Yanina Soledad*
-- *Lemiña, Francisco*
+- *Lemiña, Francisco* (liq final)
 - *Ganduglia, Aien Lucia*
 - *Orainde, Diego*
 - *Zurdo, Iara Nahir*
+- *Gonzalez, Micaela Soledad* (alta)
+- *Rodriguez, Avril Lucia* (alta)
 
 &nbsp;	✅NUEVO EMPLEADO
 
