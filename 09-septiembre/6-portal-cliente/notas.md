@@ -1,6 +1,6 @@
 # 📌NOVEDADES DE AGOSTO 2025
 
-## Boletas sindicales julio
+## Boletas sindicales agosto
 - Debarrenechea
 - Todo Na
 - Orainde
@@ -8,8 +8,7 @@
 - Ramirez
 
 
----
-💥FERIADO (1)  - 17 de agosto.
+--- 
 
 
 
